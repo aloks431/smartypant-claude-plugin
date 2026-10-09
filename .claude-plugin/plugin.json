@@ -26,5 +26,7 @@
     "Google Business Profile",
     "Instagram Reels",
     "small business marketing"
-  ]
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://smartypant.xyz/privacy-policy"
 }
