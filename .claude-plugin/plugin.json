@@ -1,0 +1,30 @@
+{
+  "name": "smartypant-social-autopilot",
+  "displayName": "Smartypant Social Autopilot",
+  "version": "1.0.0",
+  "description": "Social media on autopilot: review, approve and edit the posts Smartypant creates for your business, right in the conversation.",
+  "author": {
+    "name": "BOSETEIN UG",
+    "url": "https://smartypant.xyz"
+  },
+  "homepage": "https://smartypant.xyz",
+  "license": "MIT",
+  "keywords": [
+    "social media",
+    "social media management",
+    "social media automation",
+    "autonomous social media management",
+    "social media autopilot",
+    "social media manager",
+    "social media posts",
+    "content calendar",
+    "post approval",
+    "Instagram",
+    "LinkedIn",
+    "X",
+    "YouTube",
+    "Google Business Profile",
+    "Instagram Reels",
+    "small business marketing"
+  ]
+}
